@@ -30,10 +30,10 @@ This project demonstrates basic HTML skills and introduces the workflow of creat
 ## 📂 Project Structure
 odin-recipes/
 │
-├── index.html
-└── style.css
-├── spaghetti.html
-├── chicken.html
+├── index.html<br>
+└── style.css<br>
+├── spaghetti.html<br>
+├── chicken.html<br>
 └── vegetable.html
 
 ---
