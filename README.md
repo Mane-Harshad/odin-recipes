@@ -28,8 +28,8 @@ This project demonstrates basic HTML skills and introduces the workflow of creat
 ---
 
 ## 📂 Project Structure
-odin-recipes/
-│
+odin-recipes/<br>
+│<br>
 ├── index.html<br>
 └── style.css<br>
 ├── spaghetti.html<br>
