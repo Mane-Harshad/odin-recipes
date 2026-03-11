@@ -18,10 +18,10 @@ h1
   font-weight: bold;
   background-color: burlywood;
 }
-* {
+/* * {
   outline: 2px solid red;
 }
-/* .container {
+.container {
   border: 5px solid blue;
   margin: 40px;
 }
@@ -31,7 +31,7 @@ h1
   background-color: lightgray;
   padding: 10px;
   height: 100px;
-  /* try changing the margin properties: *
+  // try changing the margin properties: 
   margin-top: -40px;
   margin-right: 30px;
   margin-bottom: 40px;
